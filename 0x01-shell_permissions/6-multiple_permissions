@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod a=r,u=x,g=x hello
+sudo chmod 554 hello
